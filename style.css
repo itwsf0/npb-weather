@@ -1,0 +1,42 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #eef7ff;
+  color: #333;
+  padding: 40px 20px;
+}
+
+h1 {
+  color: #1769aa;
+  margin-bottom: 30px;
+}
+
+p {
+  font-size: 18px;
+}
+
+select {
+  padding: 10px 15px;
+  font-size: 16px;
+  border: 1px solid #aaa;
+  border-radius: 6px;
+  background-color: white;
+}
+
+#weather {
+  width: 350px;
+  margin: 30px auto;
+  padding: 25px;
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+}
+
+#weather h2 {
+  color: #1769aa;
+  margin-top: 0;
+}
+
+#weather p {
+  margin: 10px;
+}
